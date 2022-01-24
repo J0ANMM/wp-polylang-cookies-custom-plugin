@@ -2,6 +2,8 @@
 
 This php file is a barebone custom plugin to set Polylang's configuration for cookies, that can be uploaded to Wordpress.
 
+With this solution, one does not need to mess up with any config files or themes.
+
 ## Steps to upload the customized plugin to Wordpress
 1. Create a .zip file from the .php file
 2. In Wordpress, go to Plugins > Add Plugins > Upload Plugin
