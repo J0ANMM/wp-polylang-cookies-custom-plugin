@@ -8,6 +8,7 @@
 
 /*
 * Remove Polylang Cookie
+* (delete this part if you just want to change the expiration of the cookies)
 */
 define( 'PLL_COOKIE', false );
 
