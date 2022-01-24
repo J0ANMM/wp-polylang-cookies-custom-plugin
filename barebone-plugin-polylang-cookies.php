@@ -2,12 +2,12 @@
 
 /*
 * Plugin Name:      Polylang cookies settings
-* Description:      Barebone plugin that sets Polylang's configuration for cookies
+* Description:      Barebone plugin that configures Polylang's cookies
 */
 
 
 /*
-* Remove Polylang Cookie
+* Remove Polylang cookie
 */
 define( 'PLL_COOKIE', false );
 
