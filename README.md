@@ -1,4 +1,4 @@
-# wp-polylang-custom-plugin
+# wp-polylang-cookies-custom-plugin
 
 This php file is a barebone custom plugin to set Polylang's configuration for cookies, that can be uploaded to Wordpress.
 
