@@ -12,5 +12,6 @@ With this solution, one does not need to mess up with any config files or themes
 5. Done
 
 ## Useful resources
-- https://wordpress.org/support/topic/any-way-to-disable-pll_cookie-without-changing-wp-config-php/
-- https://permalinkmanager.pro/blog/how-to-add-php-snippet-to-wordpress-3-methods/
+- [Any way to disable PLL_COOKIE without changing wp-config.php?](https://wordpress.org/support/topic/any-way-to-disable-pll_cookie-without-changing-wp-config-php/)
+- [How to Create a Simple WordPress Plugin | 2021 WordPress Tutorial](https://www.youtube.com/watch?v=7REUdrDM_uE) (Youtube Video)
+- [How to add PHP snippet to WordPress? - permalinkmanager.pro](https://permalinkmanager.pro/blog/how-to-add-php-snippet-to-wordpress-3-methods/)
